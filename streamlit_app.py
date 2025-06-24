@@ -10,7 +10,7 @@
         .sidebar {
             }
         .sidebar.collapsed {
-            width: 70px;
+            width: px;
         }
         .sidebar.collapsed .sidebar-text {
             display: none;
@@ -19,17 +19,17 @@
             margin-right: 0;
         }
         .main-content {
-            transition: all 0.3s ease;
+            transition: all ease;
         }
         .sidebar.collapsed + .main-content {
-            margin-left: 70px;
+            margin-left: px;
         }
         .chart-container {
-            height: 300px;
+            height: ;
         }
         .file-upload {
             border: 2px dashed #cbd5e0;
-            transition: all 0.3s ease;
+            transition: all ease;
         }
         .file-upload:hover {
             border-color: #4f46e5;
