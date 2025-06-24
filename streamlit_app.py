@@ -396,7 +396,7 @@
                             <tbody class="bg-white divide-y divide-gray-200">
                                 <tr class="hover:bg-gray-50">
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        <div class="font-medium">GU2023-00456</div>
+                                        <div class="font-medium">GU2023-456</div>
                                         <div class="text-sm text-gray-500">15/05/2023</div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
