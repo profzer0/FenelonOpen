@@ -397,27 +397,27 @@
                                 <tr class="hover:bg-gray-50">
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="font-medium">GU2023-456</div>
-                                        <div class="text-sm text-gray-500">15/05/2023</div>
+                                        <div class="text-sm text-gray-">15/05/2023</div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="font-medium">Maria Silva</div>
-                                        <div class="text-sm text-gray-500">CPF: 123.456.789-00</div>
+                                        <div class="text-sm text-gray-">CPF: 123.456.789-00</div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="font-medium">Amil Saúde</div>
-                                        <div class="text-sm text-gray-500">Contrato: 789456</div>
+                                        <div class="text-sm text-gray-">Contrato: 789456</div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex flex-col">
                                             <span class="font-medium">R$ 1.250,00</span>
-                                            <span class="text-sm text-gray-500">Total Faturado</span>
+                                            <span class="text-sm text-gray-">Total Faturado</span>
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex flex-col">
                                             <span class="font-medium">R$ 980,00</span>
-                                            <span class="text-sm text-gray-500">Total Pago</span>
-                                            <span class="text-sm text-red-500">Diferença: R$ 270,00</span>
+                                            <span class="text-sm text-gray-">Total Pago</span>
+                                            <span class="text-sm text-red-">Diferença: R$ 270,00</span>
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
@@ -427,10 +427,10 @@
                                         <span class="inconsistency-badge badge-neutral">Pendente</span>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                                        <button class="text-indigo-600 hover:text-indigo-900 mr-3">
+                                        <button class="text-indigo- hover:text-indigo- mr-3">
                                             <i class="fas fa-eye"></i>
                                         </button>
-                                        <button class="text-green-600 hover:text-green-900">
+                                        <button class="text-green- hover:text-green-">
                                             <i class="fas fa-check"></i>
                                         </button>
                                     </td>
