@@ -39,9 +39,9 @@
             background-color: #eef2ff;
         }
         .inconsistency-badge {
-            font-size: 0.75rem;
-            padding: 0.25rem 0.5rem;
-            border-radius: 0.25rem;
+            font-size: ;
+            padding: ;
+            border-radius: ;
         }
         .badge-error {
             background-color: #fee2e2;
@@ -63,7 +63,7 @@
             background-color: #f3f4f6;
             color: #4b5563;
         }
-        @media (max-width: 768px) {
+        @media (max-width: ) {
             .sidebar {
                 position: fixed;
                 z-index: 50;
