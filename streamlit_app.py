@@ -8,8 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         .sidebar {
-            transition: all 0.3s ease;
-        }
+            }
         .sidebar.collapsed {
             width: 70px;
         }
