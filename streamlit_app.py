@@ -28,7 +28,7 @@
             height: ;
         }
         .file-upload {
-            border: 2px dashed #cbd5e0;
+            border:  dashed #cbd5e0;
             transition: all ease;
         }
         .file-upload:hover {
